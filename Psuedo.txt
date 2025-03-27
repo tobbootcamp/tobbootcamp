@@ -1,0 +1,42 @@
+# ALGORITHM 1
+
+start.
+get the positive number from the user.
+enter the positive number until it reaches zero value.
+display the largest number of the entered number.
+stop.
+
+# ALGORITHM 2
+
+start.
+request user`s name.
+store the input name in variable called "first_name".
+print,"first_name" with phrase "Hello world".
+stop.
+
+# ALGORITHM 3
+
+start.
+read a set of arbitary number of integers.
+compute the sum of integers.
+compute the average of integers.
+display the average of integers.
+stop.
+
+# ALGORITHM 4
+
+start.
+read the grocery list.
+print,"products".
+if the products are still to be bought.
+stop.
+
+# ALGORITHM 5
+
+start.
+read the values of X and Y.
+compute the sum of S as (X+Y).
+compute the average of A as (S/2).
+compute the product of P as (X*Y).
+display the sum of (S),the average of (A) and the product of (P).
+stop.
